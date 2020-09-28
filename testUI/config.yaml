@@ -1,0 +1,6 @@
+chromeOptions:
+  - "no-sandbox"
+  - "disable-user-media-security"
+  - "use-fake-device-for-media-stream"
+  # - "use-file-for-fake-video-capture=PATH_TO_FILE"
+  # - "use-file-for-fake-audio-capture=PATH_TO_FILE"
